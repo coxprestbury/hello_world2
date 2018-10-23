@@ -6,5 +6,5 @@ the end
 
 local update
 
-server update
+server update2
 
